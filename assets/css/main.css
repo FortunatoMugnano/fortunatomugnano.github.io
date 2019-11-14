@@ -209,7 +209,12 @@ br.clear {
 	margin-top: 3em;
 	margin-bottom: 3em;
 }
-
+iframe {
+	margin-top: 2em;
+}
+.video {
+	margin-top: 3em;
+}
 /* Container */
 
 .container {
@@ -1450,7 +1455,7 @@ section> :last-child, section>.container, section:last-child, article> :last-chi
 .image.avatar48 {
 	width: 48px;
 	height: 48px;
-	background: #f00;
+	background: #222729;
 }
 
 .image.avatar48 img {
